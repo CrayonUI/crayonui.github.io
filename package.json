@@ -1,0 +1,25 @@
+{
+  "name": "crayonui.github.io",
+  "version": "1.0.0",
+  "description": "Crayon UI GHPages",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrayonUI/crayonui.github.io.git"
+  },
+  "keywords": [
+    "Crayon",
+    "CrayonUI",
+    "UI",
+    "Framework"
+  ],
+  "author": "CrayonUI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrayonUI/crayonui.github.io/issues"
+  },
+  "homepage": "https://github.com/CrayonUI/crayonui.github.io#readme"
+}
